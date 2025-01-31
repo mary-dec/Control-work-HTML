@@ -226,6 +226,10 @@ main p{
 }
 .card:hover{
      background: #6246EA;
+    transition: 2s;
+}
+.card:hover h3{
+    color: #FFFFFE;
 }
 
 /*_______________img__________________________*/
