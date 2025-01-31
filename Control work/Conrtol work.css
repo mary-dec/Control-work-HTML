@@ -230,6 +230,7 @@ main p{
 }
 .card:hover h3{
     color: #FFFFFE;
+    transition: 2s;
 }
 
 /*_______________img__________________________*/
